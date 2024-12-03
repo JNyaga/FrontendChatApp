@@ -28,7 +28,7 @@ This project is a basic real-time chat application built with React and Node.js.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/JNyaga/chat-app.git
    cd chat-app
    ```
 
@@ -92,4 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [Socket.IO](https://socket.io/)
-- [GitHub Copilot](https://github.com/features/copilot)
