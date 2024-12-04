@@ -1,6 +1,6 @@
 # Basic Chat Application
 
-This project is a basic real-time chat application built with React and Node.js. It allows users to join a chat room, send messages, and see who is currently online. The application uses Socket.IO for real-time communication between the client and server.
+This project is a basic real-time chat application built with React and Node.js. It allows users to join a chat room, send messages, and see who is currently online. The application uses Socket.IO for real-time communication between the client and [server](https://github.com/JNyaga/ServerChatApp).
 
 ## Features
 
@@ -40,6 +40,7 @@ This project is a basic real-time chat application built with React and Node.js.
    ```
 
 3. Install dependencies for the client:
+
    ```sh
    cd ../client
    npm install
